@@ -1,0 +1,12 @@
+## .NET build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+TestResults/
+
+## Runtime data (re-created with sample data on first run)
+src/AbcPharmacy.Api/App_Data/
